@@ -15,7 +15,7 @@ const Cart = () =>{
             <table>
                 <tbody>
                 <tr>
-                    <th>Product</th>
+                    <th>Products</th>
                     <th>Quantity</th>
                     <th>Subtotal</th>
                 </tr>
